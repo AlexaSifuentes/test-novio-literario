@@ -39,7 +39,7 @@ caracter = {
 }
 #ENERGIA
 energia_visual = {
-    "golden retriever": 1,
+    "golden": 1,
     "bad boy": 2,
     "dark academia": 3,
     "soft boy": 4,
